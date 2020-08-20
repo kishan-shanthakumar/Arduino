@@ -1,3 +1,5 @@
+/*Reading raw values from ADXL345 module using I2C interface. */
+
 #include <Wire.h>  // Wire library - used for I2C communication
 int ADXL345 = 0x53; // The ADXL345 sensor I2C address
 float X_out, Y_out, Z_out;  // Outputs
