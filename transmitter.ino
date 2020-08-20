@@ -1,6 +1,5 @@
 /*
-    Arduino and ADXL345 Accelerometer Tutorial
-     by Dejan, https://howtomechatronics.com
+    Transmitter for RF Gesture controlled car
 */
 #include <RH_ASK.h>
 #include <SPI.h>
