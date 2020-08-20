@@ -1,3 +1,7 @@
+/* Program to recieve two sets of gyroscope values from two MPU6050 modules directly using I2C
+This code requires an additional library to be installed
+Link to the library : https://github.com/jarzebski/Arduino-MPU6050*/
+
 #include <Wire.h>
 #include <MPU6050.h>
 
